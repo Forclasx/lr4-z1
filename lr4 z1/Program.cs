@@ -10,7 +10,7 @@ class Program
     {
         Console.Write("введите a");
         double a = double.Parse(Console.ReadLine());
-        Console.Write("введите b");
+        Console.Write("введите bс");
         double b = double.Parse(Console.ReadLine());
 
         double fa = f(a);
