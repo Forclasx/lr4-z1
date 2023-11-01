@@ -18,7 +18,7 @@ class Program
 
         if (fa > fb)
         {
-            Console.WriteLine("Функция принимает наибольшее значение в точке a.");
+            Console.WriteLine("ну типо час ночи а я не сплю.");
         }
         else if (fa < fb)
         {
